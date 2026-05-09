@@ -2,4 +2,4 @@ Building a machine learning model capable of accurately predicting the severity 
 
 Dataset= 
 The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. 
-This table goes back to April 2016 when crash reporting switched to an electronic system.
+This table goes back to April 2016, when crash reporting switched to an electronic system.
